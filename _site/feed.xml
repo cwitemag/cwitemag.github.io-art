@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Art</title>
+        <description>Aesthetic Artwork created by students</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Mon, 05 Mar 2018 01:09:43 +0530</pubDate>
+        <lastBuildDate>Mon, 05 Mar 2018 01:09:43 +0530</lastBuildDate>
+        <generator>Jekyll v3.7.3</generator>
+        
+        <item>
+            <title>Desire: Root cause of misery</title>
+            <description>&lt;h3 id=&quot;quote&quot;&gt;Quote:&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;” Desires make slaves out of kings, patience makes kings out of slaves. “&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/desires.jpg&quot; alt=&quot;desires&quot; class=&quot;left&quot; height=&quot;300&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Sat, 25 Apr 2015 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2015/04/25/desires.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2015/04/25/desires.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Bankers own the earth</title>
+            <description>&lt;h3 id=&quot;sir-josiah-stamp-quoted&quot;&gt;Sir Josiah Stamp quoted:&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;” The bankers own the earth. Take it away from them, but leave them the power to create money, and with the flick of the pen they will create enough deposits to buy it back again. “”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/bankers.jpg&quot; alt=&quot;bankers&quot; class=&quot;left&quot; height=&quot;300&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Fri, 24 Apr 2015 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2015/04/24/bankers.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2015/04/24/bankers.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Alliance</title>
+            <description>&lt;h3 id=&quot;quote&quot;&gt;Quote:&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;” To keep an alliance you should have the leverage. “&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/alliance.jpg&quot; alt=&quot;alliance&quot; class=&quot;left&quot; height=&quot;400&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Wed, 22 Apr 2015 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2015/04/22/alliance.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2015/04/22/alliance.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Nobody else was around.</title>
+            <description>&lt;h3 id=&quot;never-settle&quot;&gt;Never settle…&lt;/h3&gt;
+&lt;p&gt;Baron Rothschild, an 18th century British nobleman and member of the Rothschild banking family, is credited with saying that&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;” Buy when there’s blood in the streets, even if the blood is your own. “&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;He should know. Rothschild made a fortune buying in the panic that followed the Battle of Waterloo against Napoleon.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/blood-street.jpg&quot; alt=&quot;blood-street&quot; class=&quot;left&quot; height=&quot;300&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;contrarian-investing&quot;&gt;Contrarian investing&lt;/h3&gt;
+&lt;p&gt;Most people only want winners in their portfolios, but as Warren Buffett warned “You pay a very high price in the stock market for a cheery consensus.” In other words, if everyone agrees with your investment decision, then it’s probably not a good one.&lt;/p&gt;
+
+&lt;h3 id=&quot;going-against-the-crowd&quot;&gt;Going Against the Crowd&lt;/h3&gt;
+&lt;p&gt;Contrarians, as the name implies, try to do the opposite of the crowd. They get excited when an otherwise good company has a sharp, but undeserved drop in share price. They swim against the current, and assume the market is usually wrong at both its extreme lows and highs. The more prices swing, the more misguided they believe the rest of the market to be.&lt;/p&gt;
+
+&lt;h3 id=&quot;bad-times-make-for-good-buys&quot;&gt;Bad Times Make for Good Buys&lt;/h3&gt;
+&lt;p&gt;Contrarian investors have historically made their best investments during times of market turmoil. During the crash of 1987 (also known as “Black Monday”), the Dow dropped 22% in one day in the U.S. In the 1973-74 bear market, the market lost 45% in about 22 months. The September 11, 2001, attacks also resulted in a sizable market drop. The list goes on and on, but those are times when contrarians found their best investments.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-bottom-line&quot;&gt;The Bottom Line&lt;/h3&gt;
+&lt;p&gt;While each of these successful contrarian investors has their own strategy for valuing potential investments, they all have the one strategy in common – they let the market bring the deals to them, rather than chasing after them.&lt;/p&gt;
+</description>
+            <pubDate>Tue, 21 Apr 2015 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2015/04/21/blood-street.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2015/04/21/blood-street.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Life must be a balance</title>
+            <description>&lt;h3 id=&quot;never-settle&quot;&gt;Never settle…&lt;/h3&gt;
+&lt;p&gt;As the saying goes:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;” Live in New York City once, but leave before it makes you hard. Live in Northern California once, but leave before it makes you soft. “&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Don’t let the money fool you nor let the easiness lure you. Life is about maintaining a balance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/cali-nyc-main.jpg&quot; alt=&quot;cali-nyc-main&quot; class=&quot;left&quot; height=&quot;300&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;adaptive-to-change&quot;&gt;Adaptive to change…&lt;/h3&gt;
+&lt;p&gt;Even Charles Darwin said:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;” It’s not the strongest species that survive, but the one that is most adaptive to change. “&lt;/em&gt;&lt;/p&gt;
+</description>
+            <pubDate>Mon, 20 Apr 2015 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2015/04/20/nyc-cali.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2015/04/20/nyc-cali.html</guid>
+            
+            
+        </item>
+        
+    </channel>
+</rss>

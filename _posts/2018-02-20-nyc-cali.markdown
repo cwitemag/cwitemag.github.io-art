@@ -1,0 +1,25 @@
+---
+title:  "Life must be a balance"
+subtitle: "Be adaptive to change"
+author: "Rohit Naidu"
+avatar: "img/authors/wferr.png"
+image: "img/cali-nyc-main.jpg"
+date:   2018-02-20 12:12:12
+---
+
+### Never settle...
+As the saying goes: 
+
+*" Live in New York City once, but leave before it makes you hard. Live in Northern California once, but leave before it makes you soft. "*
+
+Don't let the money fool you nor let the easiness lure you. Life is about maintaining a balance. 
+
+
+<img src="{{site.baseurl}}/img/cali-nyc-main.jpg" alt="cali-nyc-main" class="left" height="300" width="650">
+
+
+
+### Adaptive to change...
+Even Charles Darwin said: 
+
+*" It's not the strongest species that survive, but the one that is most adaptive to change. "*

@@ -1,0 +1,15 @@
+---
+title:  "Bankers own the earth"
+subtitle: "PLutocrats"
+author: "Rohit Naidu"
+avatar: "img/authors/wferr.png"
+image: "img/bankers.jpg"
+date:   2018-02-24 12:12:12
+---
+
+### Sir Josiah Stamp quoted:
+
+*" The bankers own the earth. Take it away from them, but leave them the power to create money, and with the flick of the pen they will create enough deposits to buy it back again. ""*
+
+<img src="{{site.baseurl}}/img/bankers.jpg" alt="bankers" class="left" height="300" width="650">
+

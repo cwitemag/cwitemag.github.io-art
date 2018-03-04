@@ -1,0 +1,7 @@
+# Site settings
+title: Art
+description: Aesthetic Artwork created by students
+keywords: Art, CWIT
+author: CWIT
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site

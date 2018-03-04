@@ -1,0 +1,15 @@
+---
+title:  "Alliance"
+subtitle: "You must have the leverage"
+author: "Rohit Naidu"
+avatar: "img/authors/wferr.png"
+image: "img/alliance.jpg"
+date:   2018-02-22 12:12:12
+---
+### Quote:
+
+*" To keep an alliance you should have the leverage. "*
+
+
+<img src="{{site.baseurl}}/img/alliance.jpg" alt="alliance" class="left" height="400" width="650">
+
