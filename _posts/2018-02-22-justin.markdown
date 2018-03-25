@@ -1,0 +1,15 @@
+---
+title:  "Justin Bieber"
+subtitle: ""
+author: "Tejas Bankar"
+avatar: "img/authors/wferr.png"
+image: "img/justin.jpg"
+date:   2018-02-22 12:12:12
+---
+### Epitome of aesthetics
+
+*"I'm telling you, people. Everyday we wake up is another blessing. Follow your dreams and don't let anyone stop you. Never say never"*
+
+
+<img src="{{site.baseurl}}/img/justin.jpg" alt="justin" class="left" height="800" width="650">
+

@@ -1,0 +1,14 @@
+---
+title:  "Deepika Padukone"
+subtitle: ""
+author: "Tejas Bankar"
+avatar: "img/authors/wferr.png"
+image: "img/deepika.jpg"
+date:   2018-02-22 12:12:12
+---
+### Quote:
+
+*"The fruit of your own hard work is the sweetest."*
+
+
+<img src="{{site.baseurl}}/img/deepika.jpg" alt="deepika" class="left" height="800" width="650">

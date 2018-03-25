@@ -1,0 +1,15 @@
+---
+title:  "Aishwarya Rai"
+subtitle: ""
+author: "Tejas Bankar"
+avatar: "img/authors/wferr.png"
+image: "img/ash.jpg"
+date:   2018-02-22 12:12:12
+---
+### Quote:
+
+*" I'm not the type who'll yell about my achievements from the rooftops. "*
+
+
+<img src="{{site.baseurl}}/img/ash.jpg" alt="ash" class="left" height="800" width="650">
+

@@ -6,60 +6,112 @@
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Mon, 05 Mar 2018 01:09:43 +0530</pubDate>
-        <lastBuildDate>Mon, 05 Mar 2018 01:09:43 +0530</lastBuildDate>
+        <pubDate>Sun, 25 Mar 2018 12:40:14 +0530</pubDate>
+        <lastBuildDate>Sun, 25 Mar 2018 12:40:14 +0530</lastBuildDate>
         <generator>Jekyll v3.7.3</generator>
         
         <item>
-            <title>Desire: Root cause of misery</title>
+            <title>Selena Gomez</title>
             <description>&lt;h3 id=&quot;quote&quot;&gt;Quote:&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;” Desires make slaves out of kings, patience makes kings out of slaves. “&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“I realize everybody wants what they don’t have. But at the end of the day, what you have inside is much more beautiful than what’s on the outside!”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/desires.jpg&quot; alt=&quot;desires&quot; class=&quot;left&quot; height=&quot;300&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/selena.jpg&quot; alt=&quot;selena&quot; class=&quot;left&quot; height=&quot;800&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
 
 </description>
-            <pubDate>Sat, 25 Apr 2015 17:42:12 +0530</pubDate>
-            <link>http://localhost:4000#/2015/04/25/desires.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/25/desires.html</guid>
+            <pubDate>Thu, 22 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/22/selena.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/22/selena.html</guid>
             
             
         </item>
         
         <item>
-            <title>Bankers own the earth</title>
-            <description>&lt;h3 id=&quot;sir-josiah-stamp-quoted&quot;&gt;Sir Josiah Stamp quoted:&lt;/h3&gt;
+            <title>MS Dhoni</title>
+            <description>&lt;h3 id=&quot;an-artistic-masterpiece&quot;&gt;An artistic masterpiece:&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;” The bankers own the earth. Take it away from them, but leave them the power to create money, and with the flick of the pen they will create enough deposits to buy it back again. “”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“If you don’t really have a dream, you can’t really push yourself; you don’t really know what the target is.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/bankers.jpg&quot; alt=&quot;bankers&quot; class=&quot;left&quot; height=&quot;300&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/msd.jpg&quot; alt=&quot;msd&quot; class=&quot;left&quot; height=&quot;800&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
 
 </description>
-            <pubDate>Fri, 24 Apr 2015 17:42:12 +0530</pubDate>
-            <link>http://localhost:4000#/2015/04/24/bankers.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/24/bankers.html</guid>
+            <pubDate>Thu, 22 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/22/msd.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/22/msd.html</guid>
             
             
         </item>
         
         <item>
-            <title>Alliance</title>
+            <title>Justin Bieber</title>
+            <description>&lt;h3 id=&quot;epitome-of-aesthetics&quot;&gt;Epitome of aesthetics&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;“I’m telling you, people. Everyday we wake up is another blessing. Follow your dreams and don’t let anyone stop you. Never say never”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/justin.jpg&quot; alt=&quot;justin&quot; class=&quot;left&quot; height=&quot;800&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Thu, 22 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/22/justin.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/22/justin.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Disha Patani</title>
+            <description>&lt;h3 id=&quot;an-artistic-masterpiece&quot;&gt;An artistic masterpiece&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;“Sometimes you don’t have to say anything. Silence speaks it all.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/disha.jpg&quot; alt=&quot;disha&quot; class=&quot;left&quot; height=&quot;800&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;liked-by-disha-patani-on-twitter&quot;&gt;Liked by Disha Patani on Twitter:&lt;/h3&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/img/disha-reply.jpg&quot; alt=&quot;disha&quot; class=&quot;center&quot; height=&quot;800&quot; width=&quot;400&quot; align=&quot;middle&quot; /&gt;
+&lt;/center&gt;
+</description>
+            <pubDate>Thu, 22 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/22/disha.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/22/disha.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Deepika Padukone</title>
             <description>&lt;h3 id=&quot;quote&quot;&gt;Quote:&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;” To keep an alliance you should have the leverage. “&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“The fruit of your own hard work is the sweetest.”&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/alliance.jpg&quot; alt=&quot;alliance&quot; class=&quot;left&quot; height=&quot;400&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&quot;/img/deepika.jpg&quot; alt=&quot;deepika&quot; class=&quot;left&quot; height=&quot;800&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
 </description>
-            <pubDate>Wed, 22 Apr 2015 17:42:12 +0530</pubDate>
-            <link>http://localhost:4000#/2015/04/22/alliance.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/22/alliance.html</guid>
+            <pubDate>Thu, 22 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/22/deepika.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/22/deepika.html</guid>
             
             
         </item>
         
         <item>
-            <title>Nobody else was around.</title>
+            <title>Aishwarya Rai</title>
+            <description>&lt;h3 id=&quot;quote&quot;&gt;Quote:&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;” I’m not the type who’ll yell about my achievements from the rooftops. “&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/ash.jpg&quot; alt=&quot;ash&quot; class=&quot;left&quot; height=&quot;800&quot; width=&quot;650&quot; /&gt;&lt;/p&gt;
+
+</description>
+            <pubDate>Thu, 22 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/22/ash.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/22/ash.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Price of Plutocracy</title>
             <description>&lt;h3 id=&quot;never-settle&quot;&gt;Never settle…&lt;/h3&gt;
 &lt;p&gt;Baron Rothschild, an 18th century British nobleman and member of the Rothschild banking family, is credited with saying that&lt;/p&gt;
 
@@ -81,9 +133,9 @@
 &lt;h3 id=&quot;the-bottom-line&quot;&gt;The Bottom Line&lt;/h3&gt;
 &lt;p&gt;While each of these successful contrarian investors has their own strategy for valuing potential investments, they all have the one strategy in common – they let the market bring the deals to them, rather than chasing after them.&lt;/p&gt;
 </description>
-            <pubDate>Tue, 21 Apr 2015 17:42:12 +0530</pubDate>
-            <link>http://localhost:4000#/2015/04/21/blood-street.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/21/blood-street.html</guid>
+            <pubDate>Wed, 21 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/21/blood-street.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/21/blood-street.html</guid>
             
             
         </item>
@@ -104,9 +156,9 @@
 
 &lt;p&gt;&lt;em&gt;” It’s not the strongest species that survive, but the one that is most adaptive to change. “&lt;/em&gt;&lt;/p&gt;
 </description>
-            <pubDate>Mon, 20 Apr 2015 17:42:12 +0530</pubDate>
-            <link>http://localhost:4000#/2015/04/20/nyc-cali.html</link>
-            <guid isPermaLink="true">http://localhost:4000#/2015/04/20/nyc-cali.html</guid>
+            <pubDate>Tue, 20 Feb 2018 17:42:12 +0530</pubDate>
+            <link>http://localhost:4000#/2018/02/20/nyc-cali.html</link>
+            <guid isPermaLink="true">http://localhost:4000#/2018/02/20/nyc-cali.html</guid>
             
             
         </item>

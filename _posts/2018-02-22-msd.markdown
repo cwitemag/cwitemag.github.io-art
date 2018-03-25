@@ -1,0 +1,15 @@
+---
+title:  "MS Dhoni"
+subtitle: ""
+author: "Tejas Bankar"
+avatar: "img/authors/wferr.png"
+image: "img/msd.jpg"
+date:   2018-02-22 12:12:12
+---
+### An artistic masterpiece:
+
+*"If you don't really have a dream, you can't really push yourself; you don't really know what the target is."*
+
+
+<img src="{{site.baseurl}}/img/msd.jpg" alt="msd" class="left" height="800" width="650">
+
